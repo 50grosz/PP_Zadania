@@ -1,0 +1,9 @@
+num = input( " Podaj dowolna liczbe. ")
+
+num = int(num)
+
+if num % 2 == 0:
+    print ( " Wygryw! ")
+
+else :
+    print ( ":*")
