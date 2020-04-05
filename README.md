@@ -1,2 +1,2 @@
 # PP_Zadania
-My exercises practicepython.org
+My solutions for practicepython.org
